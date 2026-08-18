@@ -9,7 +9,7 @@ I'm currently building my foundation in cybersecurity through hands-on learning 
 ### 🚀 About Me
 
 - 🏗️ **Final-Year Project:** [Readora](#) — an online book reading & writing platform built with ASP.NET Core Web API, Entity Framework Core & SQL Server
-- 🌱 **Currently Learning:** Cybersecurity fundamentals — Networking, Linux, and hands-on security tools
+- 🌱 **Currently Learning:** Cybersecurity fundamentals and hands-on security concepts.
 - 💻 **Background:** Software development with C#, .NET, ASP.NET MVC, Web API & EF Core
 - 📫 **Connect with me:** [LinkedIn](#) | [Email](mailto:jainmayuri0708@gmail.com)
 
