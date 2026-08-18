@@ -1,16 +1,28 @@
-##                                          👋 Hi! I'm Mayuri
+# 👋 Hi, I'm Mayuri
 
-<!--
-**Mayurijain07/MayuriJain07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 🔐 Exploring Cybersecurity | 🎯 Aspiring SOC Analyst
 
-Here are some ideas to get you started:
+I'm currently building my foundation in cybersecurity through hands-on learning and real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🏗️ **Final-Year Project:** [Readora](#) — an online book reading & writing platform built with ASP.NET Core Web API, Entity Framework Core & SQL Server
+- 🌱 **Currently Learning:** Cybersecurity fundamentals — Networking, Linux, and hands-on security tools
+- 💻 **Background:** Software development with C#, .NET, ASP.NET MVC, Web API & EF Core
+- 📫 **Connect with me:** [LinkedIn](#) | [Email](#)
+
+
+---
+
+### 🛠️ Skills
+
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,csharp,dotnet,html,css,bootstrap,python,mysql,linux,git,github,vscode,visualstudio)
+
+**Security & Networking (Learning):** Linux · Kali Linux · RHEL · Cisco Packet Tracer · Networking
+**Tools:** Jupyter · Visual Studio · Git & GitHub
+
+---
+
+<sub>🔖 Actively growing this list as I keep learning and building. Open to connecting with fellow learners in tech & security!</sub>
