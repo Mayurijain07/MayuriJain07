@@ -21,6 +21,7 @@ I'm currently building my foundation in cybersecurity through hands-on learning 
 ![My Skills](https://skillicons.dev/icons?i=linux,py,git,github,vscode,cs,dotnet,html,css,bootstrap)
 
 **Cybersecurity & Networking (Currently Learning):** Networking · Linux · Kali Linux · RHEL · Cisco Packet Tracer · VMware
+
 **Database:** SQL Server
 
 **Tools:** Jupyter · Visual Studio
