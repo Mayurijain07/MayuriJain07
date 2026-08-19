@@ -9,7 +9,6 @@ I'm currently building my foundation in cybersecurity through hands-on learning 
 ### 🚀 About Me
 
 - 🌱 **Currently Learning:** Cybersecurity fundamentals and hands-on security concepts
-- 🔐 **Career Goal:** Building my skills towards a career as a SOC Analyst
 - 💻 **Background:** Software development with C#, .NET, ASP.NET MVC, Web API & EF Core
 - 🏗️ **Final-Year Project:** [Readora](#) — an online book reading & writing platform built with ASP.NET Core Web API, Entity Framework Core & SQL Server
 - 📫 **Connect with me:** [LinkedIn](#) | [Email](mailto:jainmayuri0708@gmail.com)
