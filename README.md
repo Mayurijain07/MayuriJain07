@@ -8,9 +8,10 @@ I'm currently building my foundation in cybersecurity through hands-on learning 
 
 ### 🚀 About Me
 
-- 🏗️ **Final-Year Project:** [Readora](#) — an online book reading & writing platform built with ASP.NET Core Web API, Entity Framework Core & SQL Server
-- 🌱 **Currently Learning:** Cybersecurity fundamentals and hands-on security concepts.
+- 🌱 **Currently Learning:** Cybersecurity fundamentals and hands-on security concepts
+- 🔐 **Career Goal:** Building my skills towards a career as a SOC Analyst
 - 💻 **Background:** Software development with C#, .NET, ASP.NET MVC, Web API & EF Core
+- 🏗️ **Final-Year Project:** [Readora](#) — an online book reading & writing platform built with ASP.NET Core Web API, Entity Framework Core & SQL Server
 - 📫 **Connect with me:** [LinkedIn](#) | [Email](mailto:jainmayuri0708@gmail.com)
 
 
@@ -18,11 +19,11 @@ I'm currently building my foundation in cybersecurity through hands-on learning 
 
 ### 🛠️ Skills
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,java,csharp,dotnet,html,css,bootstrap,python,mssql,linux,git,github,vscode,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=linux,py,git,github,vscode,cs,dotnet,html,css,bootstrap,mysql)
 
-**Cybersecurity & Networking (Currently Learning):** Networking · Linux · Kali Linux · RHEL · Cisco Packet Tracer
-
-**Tools:** Jupyter · Visual Studio · Git & GitHub
+**Cybersecurity & Networking (Currently Learning):** Networking · Linux · Kali Linux · RHEL · Cisco Packet Tracer · VMware
+**Database:** SQL Server
+**Tools:** Jupyter · Visual Studio
 
 ---
 
