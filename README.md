@@ -205,7 +205,7 @@ Currently working towards becoming a **SOC Analyst**, while strengthening my cyb
   </a>
 </p>
 
-📧 Email: YOUR_EMAIL_ADDRESS
+📧 Email:jainmayuri0708@gmail.com
 
 ---
 
