@@ -182,7 +182,7 @@ An online platform where readers can explore books and writers can publish their
 
 Hands-on security practice covering Windows and Linux exploitation, network enumeration, credential attacks and privilege escalation.
 
-**[View Repository →](https://github.com/MayuriJain07/TryHackMe-Writeups)**
+**[View Repository →][((https://github.com/Mayurijain07/READORA-Online-Book-Reading-Writing-Platform)]**
 
 ---
 
